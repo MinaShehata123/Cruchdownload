@@ -4,7 +4,7 @@ let menudiv = document.getElementById("menutrue");
 
 document.getElementById("btn").addEventListener('click', function(){
   
-  window.location.href='https://www.dropbox.com/scl/fi/tzru7uj1bixhenca1rlxh/_1.0.apk?rlkey=kzquksl9xux3khgbicobhc1cq&st=blahzye9&dl=1'
+  alert('التطبيق تحت التطوير سيتوفر قريبا ');
 })
 
 
