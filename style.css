@@ -3,6 +3,7 @@ body {
     background: #F2F3F5;
     scroll-behavior: smooth;
     font-family: "Almarai", sans-serif;
+    
 }
 
 #header {
@@ -27,6 +28,15 @@ body {
     font-weight: 800;
     font-style: normal;
     font-size: 16px;
+    
+    
+  background: linear-gradient(60deg, #6CFD87, #66FEEF);
+  
+  
+  background-clip: text;
+  -webkit-background-clip: text;
+  font-size: 16px;
+  -webkit-text-fill-color: transparent;
 }
 
 #menu {
@@ -176,13 +186,7 @@ background: #222326;
 box-shadow: rgba(0, 94, 255, 0.28) 0px 0px 25px;
 }
 
-#navtxt{
-  font-size: 72px;
-  background: linear-gradient(60deg, #6CFD87, #66FEEF);
-  -webkit-background-clip: text;
-  
-  -webkit-text-fill-color: transparent;
-}
+
 
 #about{
   width: 100%;
