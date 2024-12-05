@@ -2,9 +2,11 @@ body {
     margin: 0px;
     background: #F2F3F5;
     scroll-behavior: smooth;
+    font-family: sans-serif;
+    
 }
 
-#header {
+#header
     background: #FCFCFCE3;
     width: 100%;
     backdrop-filter: blur(5px);
