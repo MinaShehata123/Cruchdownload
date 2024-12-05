@@ -2,11 +2,10 @@ body {
     margin: 0px;
     background: #F2F3F5;
     scroll-behavior: smooth;
-   font-family: "Almarai", sans-serif;
-    
+    font-family: "Almarai", sans-serif;
 }
 
-#header
+#header {
     background: #FCFCFCE3;
     width: 100%;
     backdrop-filter: blur(5px);
@@ -193,7 +192,7 @@ box-shadow: rgba(0, 94, 255, 0.28) 0px 0px 25px;
   top: 0px;
   left: 0px;
   background: #FDFEFFC9;
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(8px);
 }
 #exit{
   width: 50px;
